@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875500248106",
+    "project_id": "efolder-90735",
+    "storage_bucket": "efolder-90735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875500248106:android:f7e9d26969d77661e63753",
+        "android_client_info": {
+          "package_name": "com.tonni.efolder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875500248106-552vag623ouhasl4f2urosh8ooocgmd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfrapy0FP0klTLB0NxizYeJlznpGfOZC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875500248106-552vag623ouhasl4f2urosh8ooocgmd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

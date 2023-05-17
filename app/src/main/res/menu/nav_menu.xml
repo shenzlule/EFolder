@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Home "
+            android:id="@+id/nav_home"
+            android:visible="false"
+            android:icon="@drawable/home"
+            />
+        <item
+            android:title="Internal Storage"
+            android:id="@+id/nav_internal"
+            android:icon="@drawable/ic_internal_sd"
+            />
+        <item
+            android:title="Sd Card Storage"
+            android:id="@+id/nav_sdcard"
+            android:icon="@drawable/ic_sd"
+            />
+
+
+    </group>
+    <item
+        android:title="Google Drive"
+        android:id="@+id/nav_google_drive"
+        android:icon="@drawable/ic_baseline_add_to_drive_24"
+        />
+
+    <item
+        android:title="Logout"
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_baseline_logout_24"
+        />
+
+</menu>

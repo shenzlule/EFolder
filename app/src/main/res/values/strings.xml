@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EFolder</string>
+    <string name="Open_Drawer">close_drawer</string>
+    <string name="Close_Drawer">Open_drawer</string>
+
+</resources>
